@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+.clock{
+    color: aqua;
+    font-size: 38px;
+    font-family: monospace;
+    padding: 20px 625px;
+}
+
+.anuncio{
+    color: aliceblue;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.fecha{
+    color: aliceblue;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.property{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-style: italic;
+}
